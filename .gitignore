@@ -1,0 +1,14 @@
+# Environment variables / API keys
+.env
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/secrets.toml
+purchasewise_data.json
