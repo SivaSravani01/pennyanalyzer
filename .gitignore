@@ -12,3 +12,4 @@ __pycache__/
 # Streamlit
 .streamlit/secrets.toml
 purchasewise_data.json
+purchases.csv
